@@ -1,0 +1,2 @@
+slurmstepd-n01: error: execve(): pythoh: No such file or directory
+srun: error: n01: task 0: Exited with exit code 2
